@@ -1,0 +1,24 @@
+{
+  "name": "node-complete",
+  "version": "0.0.1",
+  "description": "The complete node.js course from Max Swartz.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongiocoder/node-complete.git"
+  },
+  "keywords": [
+    "node",
+    "max"
+  ],
+  "author": "Giovanni Toschi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongiocoder/node-complete/issues"
+  },
+  "homepage": "https://github.com/dongiocoder/node-complete#readme"
+}
