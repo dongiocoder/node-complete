@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dongiocoder/node-complete/issues"
   },
-  "homepage": "https://github.com/dongiocoder/node-complete#readme"
+  "homepage": "https://github.com/dongiocoder/node-complete#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
 }
